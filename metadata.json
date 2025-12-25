@@ -1,0 +1,7 @@
+{
+  "name": "Lover's Timeline & Counter",
+  "description": "A beautiful, customizable anniversary counter and relationship timeline for couples to cherish their memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
